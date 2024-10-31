@@ -45,6 +45,18 @@
 ********************************************************************
 
 結合人眼四周對顏色的敏感性較差，目前正在研究一種Optical Wavy Lines Illusion
-，但還無法完全復刻：
+，花了不少時間仍無法完全復刻（請縮小看）：
 ![Original Wavy Line](https://github.com/user-attachments/assets/47b2524f-e399-42db-8d94-b3b4de28e569)
+(原圖有陰影，像一種類自然畫面，像石頭與草皮)
+![螢幕擷取畫面 2024-10-26 235225](https://github.com/user-attachments/assets/3ed6102b-d1c4-4235-aabb-a6cf2b8fabb8)
+
+其原理是透過視覺邊緣比較淺色的長方形（隱隱呈現一些紋路），以擾亂顏色感知，
+讓人腦將淺灰腦補成綠色，而產生而外的綠色彎線錯覺...
+![螢幕擷取畫面 2024-11-01 021104](https://github.com/user-attachments/assets/145fbce5-bb8a-4835-ae23-e4020cdba4a2)
+(如圖淺白線標出的部份)
+
+！目前嘗試的進度如下（20241031）：
+![螢幕擷取畫面 2024-11-01 021301](https://github.com/user-attachments/assets/c72f9d49-0ff5-46cc-8346-08fb1e6bc7f7)
+
+
 
