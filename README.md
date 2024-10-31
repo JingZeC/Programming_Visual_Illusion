@@ -4,7 +4,8 @@
 目前正在實驗 Müller-Lyer illusion，常見的基本款如下：
 
 ![image](https://github.com/user-attachments/assets/9dbec216-f0a6-48e1-84de-6eeed0060fca)
-(儘管這兩條線段實際上是等長的，人們通常會感知到帶有向外擴張元素的線段比帶有向內的元素之線段要長)
+(儘管這兩條線段實際上是等長的，
+人們通常會感知到帶有向外擴張元素的線段比帶有向內的元素之線段要長)
 
 我們推論主要原因如下:
 
@@ -36,7 +37,14 @@
 (環狀垂直向圓心的 Müller-Lyer Illusion。p5.js自製)
 
 
-同時因為對比度較低，若仔細凝視靜止圖中心的Cross，也會有Troxler效應的產生(凝視上方的動態圖則沒有)：
+同時因為對比度較低，若仔細凝視靜止圖中心的Cross，也會有Troxler效應的產生
+(凝視上方的動態圖則沒有)：
 ![螢幕擷取畫面 2024-10-25 144902](https://github.com/user-attachments/assets/9040b204-2663-4f9c-b094-d2068873dff3)
 
+
+********************************************************************
+
+結合人眼四周對顏色的敏感性較差，目前正在研究一種Optical Wavy Lines Illusion
+，但還無法完全復刻：
+![Original Wavy Line](https://github.com/user-attachments/assets/47b2524f-e399-42db-8d94-b3b4de28e569)
 
