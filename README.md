@@ -29,6 +29,9 @@
 導致我們對線段長度產生錯誤的感知。
 
 ![ezgif-4-700075fd2a](https://github.com/user-attachments/assets/e1de72c4-0b01-4ddd-872c-5109abfe4f4d)
-(環狀的Müller-Lyer Illusion。p5.js自製)
+(環狀橫躺的 Müller-Lyer Illusion。p5.js自製)
 
+
+![ezgif-4-05f681be10](https://github.com/user-attachments/assets/30984a7a-43e9-417b-95a3-92c607e13939)
+(環狀垂直向圓心的 Müller-Lyer Illusion。p5.js自製)
 
