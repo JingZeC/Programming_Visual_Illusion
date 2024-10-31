@@ -1,3 +1,5 @@
+#H34106070_陳靖則
+  
 function setup() {
   createCanvas(600, 600);
   angleMode(DEGREES);
