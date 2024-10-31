@@ -1,9 +1,10 @@
 # Programming_Visual_Illusion
 2024
-目前正在實驗 Müller-Lyer illusion，
-常見的基本款如下：
+
+目前正在實驗 Müller-Lyer illusion，常見的基本款如下：
+
 ![image](https://github.com/user-attachments/assets/9dbec216-f0a6-48e1-84de-6eeed0060fca)
-(儘管這兩條線段實際上是等長的，人們通常會感知到帶有向外指箭頭的線段比帶有向內指箭頭的線段要長)
+(儘管這兩條線段實際上是等長的，人們通常會感知到帶有向外擴張元素的線段比帶有向內的元素之線段要長)
 
 我們推論主要原因如下:
 
@@ -26,3 +27,8 @@
 4. 神經加工： 從神經科學的角度來看，Müller-Lyer 錯覺的發生是由於我們的大腦在處理視覺信息時，
 會自動地嘗試進行深度解釋。神經系統中負責形狀和邊界處理的區域會根據這些箭頭的方向作出不同的推論，
 導致我們對線段長度產生錯誤的感知。
+
+![ezgif-4-700075fd2a](https://github.com/user-attachments/assets/e1de72c4-0b01-4ddd-872c-5109abfe4f4d)
+(環狀的Müller-Lyer Illusion。p5.js自製)
+
+
