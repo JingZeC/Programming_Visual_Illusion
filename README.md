@@ -35,3 +35,8 @@
 ![ezgif-4-05f681be10](https://github.com/user-attachments/assets/30984a7a-43e9-417b-95a3-92c607e13939)
 (環狀垂直向圓心的 Müller-Lyer Illusion。p5.js自製)
 
+
+同時因為對比度較低，若仔細凝視靜止圖中心的Cross，也會有Troxler效應的產生(凝視上方的動態圖則沒有)：
+![螢幕擷取畫面 2024-10-25 144902](https://github.com/user-attachments/assets/9040b204-2663-4f9c-b094-d2068873dff3)
+
+
