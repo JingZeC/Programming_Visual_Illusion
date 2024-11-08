@@ -62,6 +62,7 @@
 
 像素，無陰影，無邊界 -> 沒什麼效果，但好像有點奇妙（20241108）
 ![pixil-frame-0 (3)](https://github.com/user-attachments/assets/35f7ba1d-9e41-4660-8485-1ca4e82e372a)
+![螢幕擷取畫面 2024-11-08 082737](https://github.com/user-attachments/assets/794fff69-ae3a-43ad-8437-694bc2ca4d05)
 ![螢幕擷取畫面 2024-11-08 082432](https://github.com/user-attachments/assets/547bcad5-8eab-4c42-93ed-93af70e6521e)
 
 
