@@ -60,5 +60,8 @@
 ！目前嘗試的進度如下（20241031）：
 ![螢幕擷取畫面 2024-11-01 021301](https://github.com/user-attachments/assets/c72f9d49-0ff5-46cc-8346-08fb1e6bc7f7)
 
+像素，無陰影，無邊界 -> 沒什麼效果，但好像有點奇妙（20241108）
+![pixil-frame-0 (3)](https://github.com/user-attachments/assets/35f7ba1d-9e41-4660-8485-1ca4e82e372a)
+![螢幕擷取畫面 2024-11-08 082432](https://github.com/user-attachments/assets/547bcad5-8eab-4c42-93ed-93af70e6521e)
 
 
