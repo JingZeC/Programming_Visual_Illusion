@@ -65,4 +65,6 @@
 ![螢幕擷取畫面 2024-11-08 082737](https://github.com/user-attachments/assets/794fff69-ae3a-43ad-8437-694bc2ca4d05)
 ![螢幕擷取畫面 2024-11-08 082432](https://github.com/user-attachments/assets/547bcad5-8eab-4c42-93ed-93af70e6521e)
 
+![pixilart-drawing (2)](https://github.com/user-attachments/assets/a1dc6df8-7e13-45f0-8af0-2f4367fcbfc7)
+![pixil-frame-0 (4)](https://github.com/user-attachments/assets/a69f177c-e5f4-4db5-8a76-c33b7bfbcdcc)
 
