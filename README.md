@@ -68,3 +68,6 @@
 ![pixilart-drawing (2)](https://github.com/user-attachments/assets/a1dc6df8-7e13-45f0-8af0-2f4367fcbfc7)
 ![pixil-frame-0 (4)](https://github.com/user-attachments/assets/a69f177c-e5f4-4db5-8a76-c33b7bfbcdcc)
 
+
+同色的球 (20241206)
+
