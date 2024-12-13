@@ -69,10 +69,14 @@
 ![pixil-frame-0 (4)](https://github.com/user-attachments/assets/a69f177c-e5f4-4db5-8a76-c33b7bfbcdcc)
 
 
-同色的球 (20241206) 基本款：
+同色的球 (20241206)：
 
 ![螢幕擷取畫面 2024-12-13 041023](https://github.com/user-attachments/assets/6995edb6-ad32-4889-b1c3-682cd0e2b4c7)
 ![螢幕擷取畫面 2024-12-13 041032](https://github.com/user-attachments/assets/b79196ac-1a2b-4cee-9a96-9369caaf94ac)
+![螢幕擷取畫面 2024-12-13 110507](https://github.com/user-attachments/assets/1b788441-8b0b-498d-848b-c1b4c0dafcb4)
+![螢幕擷取畫面 2024-12-13 125149](https://github.com/user-attachments/assets/64b8bfc0-4836-4cbb-9758-7d10ae0baac8)
+![螢幕擷取畫面 2024-12-13 125158](https://github.com/user-attachments/assets/047675cd-6790-4ec4-af2e-cae23bb5de8c)
+
 
 
 
