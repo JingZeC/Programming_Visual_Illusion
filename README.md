@@ -69,5 +69,10 @@
 ![pixil-frame-0 (4)](https://github.com/user-attachments/assets/a69f177c-e5f4-4db5-8a76-c33b7bfbcdcc)
 
 
-同色的球 (20241206)
+同色的球 (20241206) 基本款：
+
+![螢幕擷取畫面 2024-12-13 041023](https://github.com/user-attachments/assets/6995edb6-ad32-4889-b1c3-682cd0e2b4c7)
+![螢幕擷取畫面 2024-12-13 041032](https://github.com/user-attachments/assets/b79196ac-1a2b-4cee-9a96-9369caaf94ac)
+
+
 
