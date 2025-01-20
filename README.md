@@ -76,6 +76,8 @@
 ![螢幕擷取畫面 2024-12-13 110507](https://github.com/user-attachments/assets/1b788441-8b0b-498d-848b-c1b4c0dafcb4)
 ![螢幕擷取畫面 2024-12-13 125149](https://github.com/user-attachments/assets/64b8bfc0-4836-4cbb-9758-7d10ae0baac8)
 ![螢幕擷取畫面 2024-12-13 125158](https://github.com/user-attachments/assets/047675cd-6790-4ec4-af2e-cae23bb5de8c)
+![螢幕擷取畫面 2025-01-21 020847](https://github.com/user-attachments/assets/3dc4a0a5-e1c6-421e-a39e-83ed4b04c76c)
+
 
 
 
